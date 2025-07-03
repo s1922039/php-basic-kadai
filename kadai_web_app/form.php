@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <h2>お問い合わせ<h2>
+    <h2>社員情報入力フォーム<h2>
     <form action="confirm.php" method="post">
         <table>
             <tr>
