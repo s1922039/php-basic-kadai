@@ -1,7 +1,4 @@
 <?php
-
-session_start();
-
 // POSTリクエストから入力データを取得
 $name = $_POST['employee_name'];
 $age = $_POST['employee_age'];
